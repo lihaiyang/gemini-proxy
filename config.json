@@ -1,0 +1,14 @@
+{
+  "api_configs": [
+    {
+        "name": "项目1",
+        "base_url": "https://generativelanguage.googleapis.com", 
+        "api_key": "key1"  
+    },
+    {
+      "name": "项目2",
+      "base_url": "https://generativelanguage.googleapis.com", 
+      "api_key": "key2"  
+    }
+  ]
+}
